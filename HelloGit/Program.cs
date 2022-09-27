@@ -11,6 +11,7 @@ namespace HelloGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello !!");
+            Console.WriteLine("Today is 27-09-2022");
 
         }
     }
